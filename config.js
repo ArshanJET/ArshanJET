@@ -14,7 +14,7 @@ function reloadPresence(client) {
         .setDetails("Grinding OGC")
         .setState("...") // Set the activity state
         .setStartTimestamp(global.startTime) // Make sure global.startTime is defined correctly
-        .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1248627708100088001/1259528286523097202/Thanos.gif?ex=668c02a0&is=668ab120&hm=0be2791ec8b5a651857624b2b94a8dbcae8c9179c03dc0ec22a31f9cf7a3c164&") // Replace with your large image key
+        .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1248627708100088001/1259528286523097202/Thanos.gif?ex=669888e0&is=66973760&hm=e505712a1d071ab9d5537cc288e1b6da7c98ababbb89489206d996a6844ebc21&") // Replace with your large image key
         .setAssetsLargeText("Join below")
         .addButton('Join OGC', "https://app.ogcom.xyz/invite/FywvD4zZwISY-qNi")
         .addButton('Zealy', "https://zealy.io/cw/web3epicchallenge/invite/Le-o0OQfKd2dGs4Nia-Bt");
